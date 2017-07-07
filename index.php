@@ -8,4 +8,5 @@
       echo "k";
       echo "v1";
       echo "v1-new";
+      echo "v2";
  ?>
